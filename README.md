@@ -5,7 +5,7 @@ This repository contains MATLAB code to enhance noised images.
 ## Usage
 
 1. Place your noised images in the `noised_images` folder.
-2. Run the `enhance_images.m` script to enhance the images.
+2. Run the `cleanedimages.m` script to enhance the images.
 3. Enhanced images will be saved in the `enhanced_images` folder.
 
 ## Requirements
@@ -14,7 +14,7 @@ This repository contains MATLAB code to enhance noised images.
 
 ## Files
 
-- `enhance_images.m`: The MATLAB script to enhance images.
+- `cleanedimages.m`: The MATLAB script to enhance images.
 - `noised_images/`: Folder containing noised images.
 - `enhanced_images/`: Folder to save the enhanced images.
 
@@ -22,6 +22,6 @@ This repository contains MATLAB code to enhance noised images.
 
 1. Open MATLAB.
 2. Navigate to the project directory.
-3. Run the `enhance_images.m` script:
+3. Run the `cleanedimages.m` script:
    ```matlab
-   enhance_images
+   cleanedimages
