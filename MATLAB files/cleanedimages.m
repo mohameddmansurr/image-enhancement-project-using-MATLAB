@@ -1,6 +1,6 @@
 % Specify the input and output folders
-inputFolder = 'D:\noisy\';
-outputFolder = 'D:\cleaned\';
+inputFolder = 'D:\MATLAB files\noised_images';
+outputFolder = 'D:\MATLAB files\enhanced_images';
 
 % Create the output folder if it does not exist
 if ~exist(outputFolder, 'dir')
